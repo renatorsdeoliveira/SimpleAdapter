@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simple Adapter</string>
+    <string name="email">Digite seu email</string>
+    <string name="telefone">Digite seu telefone</string>
+    <string name="sobrenome">Digite seu sobrenome</string>
+    <string name="nome">Digite seu nome</string>
 </resources>
